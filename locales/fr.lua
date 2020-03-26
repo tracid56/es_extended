@@ -180,6 +180,18 @@ Locales['fr'] = {
   ['gadget_parachute'] = 'parachute',
   ['weapon_flare'] = 'fusée de détresse',
   ['weapon_doubleaction'] = 'revolver double action',
+  ['weapon_specialcarabine_mk2'] = 'G36K',
+  ['weapon_bullpruprifle_mk2'] = 'TAR21',
+  ['weapon_pumpshotgun_mk2'] = 'Mossberg 590',
+  ['weapon_marksmanrifle_mk2'] = 'Carabine SDM M25',  
+  ['weapon_assaultrifle_mk2'] = 'AKM',  
+  ['weapon_carbinerifle_mk2'] = 'Barrett REC7',  
+  ['weapon_combatmg_mk2'] = 'M240G',  
+  ['weapon_heavysniper_mk2'] = 'Barrett XM500',  
+  ['weapon_pistol_mk2'] = 'Beretta M9A3',  
+  ['weapon_smg_mk2'] = 'MPX-k', 
+  ['weapon_stone_hatchet'] = 'Hache en pierre', 
+  ['clip'] = 'Boite de munitions', 
 
   -- Weapon Components
   ['component_clip_default'] = 'chargeur par défaut',
